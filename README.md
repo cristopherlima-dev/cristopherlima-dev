@@ -1,4 +1,4 @@
-<h1 align="cnter">Olá! 👋, Eu sou Cristopher Lima. Bem vindo(a) meu perfil?</h1>
+<h1 align="cnter">Olá! 👋, Sou o Cristopher Lima. Bem vindo(a) ao meu perfil!!!</h1>
 <h3 align="left">😂 Adoro listas:</h3>
 <ul>
 <li>Estudante de Engenharia de Computação</li>
