@@ -1,10 +1,10 @@
 <h1 align="cnter">Olá! 👋, Sou o Cristopher Lima. Bem vindo(a) ao meu perfil!!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristopherlima-dev&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="cristopherlima-dev" /> </p>
-<h3 align="left">Estudo e Trabalho com:</h3>
+<h3 align="left">Formações e Trabalho:</h3>
 <ul>
 <li>✅ Técnico em Informática</li>
 <li>🔜 Futuro Engenheiro de Computação (2024-2029) </li> 
-<li>💼 Analista de T.I</li>  
+<li>💼 Atualmente sou Analista de T.I em uma transportadora</li>  
 </ul>
 
 <br>
