@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristopherlima-dev&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="cristopherlima-dev" /> </p>
 <h3 align="left">Formações e Trabalho:</h3>
 <ul>
-<li>✅ Técnico em Informática</li>
-<li>🔜 Futuro Engenheiro de Computação (2024-2029) </li> 
+<li>✅ Técnico em Informática</li> 
 <li>💼 Atualmente sou Analista de T.I em uma transportadora</li>  
 </ul>
 
@@ -13,7 +12,6 @@
 <li>👨🏻‍💻 Programação</li>
 <li>🔌 Eletrônica</li>
 <li>🛩️ Aviação</li> 
-<li>⚙️ Engenharia Eletrônica e de Computação</li>  
 </ul>
 <br>
 
