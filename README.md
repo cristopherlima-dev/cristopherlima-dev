@@ -3,6 +3,7 @@
 <h3 align="left">Formações e Trabalho:</h3>
 <ul>
 <li>✅ Técnico em Informática</li> 
+<li>📖Cursando Análise e Desenvolvimento de Sistema - Uninter
 <li>💼 Atualmente sou Analista de T.I em uma transportadora</li>  
 </ul>
 
