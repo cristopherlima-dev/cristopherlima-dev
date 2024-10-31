@@ -1,4 +1,4 @@
-<h1 align="cnter">Olá! 👋, Sou o Cristopher Lima. Bem vindo(a) ao meu perfil!!!</h1>
+<h1 align="cnter">Olá! 👋, Sou o Cristopher Lima (Mas pode me chamar de Cris). Bem vindo(a) ao meu perfil!!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristopherlima-dev&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="cristopherlima-dev" /> </p>
 <h3 align="left">Formações e Trabalho:</h3>
 <ul>
