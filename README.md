@@ -3,16 +3,16 @@
 <h3 align="left">Formações e Trabalho:</h3>
 <ul>
 <li>✅ Técnico em Informática</li> 
-<li>📖 Cursando Análise e Desenvolvimento de Sistema - Uninter
+<li>📖 Cursando Gestão da Tecnologia da Informação  - Uninter - Início 02/2025
 <li>💼 Atualmente sou Analista de T.I em uma transportadora</li>  
 </ul>
 
 <br>
 <h3 align="left">Assuntos que me interessam bastante:</h3>
 <ul>
-<li>👨🏻‍💻 Programação</li>
-<li>🔌 Eletrônica</li>
-<li>🛩️ Aviação</li> 
+   <li>👨🏻‍💻 Programação</li>
+   <li>🔌 Eletrônica</li>
+   <li>🛩️ Aviação</li> 
 </ul>
 <br>
 
