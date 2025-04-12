@@ -4,7 +4,7 @@
 <ul>
 <li>✅ Técnico em Informática</li> 
 <li>📖 Cursando Gestão da Tecnologia da Informação  - Uninter - Início 02/2025
-<li>💼 Atualmente sou Analista de T.I em uma transportadora</li>  
+<li>💼 Encarregado de TI na APK Logística</li>  
 </ul>
 
 <br>
