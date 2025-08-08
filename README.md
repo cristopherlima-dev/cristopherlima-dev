@@ -3,7 +3,7 @@
 <h3 align="left">Formações e Trabalho:</h3>
 <ul>
   <li>✅ Técnico em Informática</li> 
-  <li>📖 Cursando Desenvolvimento Full Stack - Estácio - Início 06/2025</li>
+  <li>📖 Cursando Bacharelado em Ciência da Computação - Uninter - Início: 09/2025</li>
   <li>💼 Encarregado de TI na APK Logística</li>  
 </ul>
 
