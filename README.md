@@ -1,13 +1,20 @@
 <h1>Olá!👋 Sou o Cristopher Lima</h1>
 
-<h3 align="left">Formações e Trabalho:</h3>
+<h3 align="left">Formação:</h3>
 <ul>
-  <li>✅ Técnico em Informática</li> 
-  <li>📖 Cursando Bacharelado em Ciência da Computação - Uninter - Início: 09/2025</li>
-  <li>💼 Encarregado de TI na APK Logística</li>  
+  <li>✅ CONCLUÍDO: Técnico em Informática - CEPMAT</li> 
+  <li>📖 EM ANDAMENTO: Bacharelado em Ciência da Computação - Uninter - Início: 09/2025</li>
 </ul>
 
 <br>
+
+<h3 align="left">Trabalho:</h3>
+<ul>  
+  <li>💼 ATUAL: Encarregado de TI na APK Logística</li>  
+</ul>
+
+<br>
+
 
 <h3 align="left">Você também me encontra aqui:</h3>
 <p align="left">
